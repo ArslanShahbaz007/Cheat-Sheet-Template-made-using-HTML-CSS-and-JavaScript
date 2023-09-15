@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(216, 226, 179);
+    color: azure;
+    height: 56px;
+}
+
+.container{
+    width: 60vw;
+    margin: auto;
+    padding: 32px 0px;
+}
+
+.logo img{
+    width: 32px;
+}
